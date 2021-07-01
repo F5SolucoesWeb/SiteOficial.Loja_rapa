@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div.bg_top{
+	display: block;
+	float: left;
+	width: 100%;
+	background-color: #0495d9;
+	height: 40px;
+	z-index: 99;
+}
